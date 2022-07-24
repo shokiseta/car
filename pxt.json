@@ -1,5 +1,5 @@
 {
-    "name": "くるま",
+    "name": "くるま_LEDテスト",
     "description": "",
     "dependencies": {
         "core": "*",

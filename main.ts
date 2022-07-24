@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    Pixel_Array.showColor(neopixel.colors(NeoPixelColors.Red))
+	
 })
 input.onButtonPressed(Button.B, function () {
     Pixel_Array.clear()
